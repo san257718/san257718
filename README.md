@@ -2,7 +2,7 @@
 
 Hello, my name is Len. I have at least 2 years of software and network-related and development.
 
-<div> <img src="https://visitor-badge.glitch.me/badge?page_id=san257718" /> </div>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=san257718&left_color=green&right_color=red)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
